@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Technical Detail"
+  short_description: "Collect implementation details for AI/ML methods"
+  default_prompt: "Use $research-technical-detail to gather practical configs, recipes, and gotchas for this method."

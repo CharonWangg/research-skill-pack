@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Conceptualization"
+  short_description: "Map AI/ML conceptual research landscapes"
+  default_prompt: "Use $research-conceptualization to map paradigms, gaps, and motivation for this topic."

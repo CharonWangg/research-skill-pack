@@ -35,6 +35,13 @@ The "what and why" layer of research:
 - Persistent note-taking across sessions
   → That's `research-session-notes`
 
+## Figure Output Add-on
+
+When you need to present conceptual findings with publication-style visuals,
+use the embedded figure skill:
+
+- `research-conceptualization/scientific-figure/SKILL.md`
+
 ## How to Operate
 
 **Parallelize aggressively.** Don't search sequentially — decompose the

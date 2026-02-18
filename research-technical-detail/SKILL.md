@@ -36,6 +36,13 @@ The "how" layer of research:
 - Persistent note-taking across sessions
   → That's `research-session-notes`
 
+## Figure Output Add-on
+
+When technical findings need polished charts or diagrams in a report, use the
+embedded figure skill:
+
+- `research-technical-detail/scientific-figure/SKILL.md`
+
 ## How to Operate
 
 **Parallelize aggressively.** Technical details live in many different places

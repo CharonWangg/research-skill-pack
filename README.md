@@ -6,6 +6,8 @@ Codex-ready research skills bundle for high-recall AI/ML research workflows.
 
 - `research-conceptualization/`: Concept-level research landscape mapping (`what` and `why`)
 - `research-technical-detail/`: Implementation-level research detail gathering (`how`)
+- `research-conceptualization/scientific-figure/`: Embedded figure skill for conceptual reports
+- `research-technical-detail/scientific-figure/`: Embedded figure skill for technical reports
 - `AGENTS.md`: Cross-session note-taking and knowledge compounding guidance
 
 ## One-Command Install (Remote Codex)

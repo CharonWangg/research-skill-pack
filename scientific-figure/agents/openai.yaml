@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific Figure"
+  short_description: "Create publication-ready scientific figures"
+  default_prompt: "Use $scientific-figure to generate polished bar, trend, heatmap, or concept-diagram figures for this report."

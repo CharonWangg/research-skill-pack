@@ -57,7 +57,7 @@ Core APIs:
 ## Quick Run
 
 ```bash
-python research-conceptualization/scientific-figure/scripts/bar_figure_starter.py
-python research-conceptualization/scientific-figure/scripts/trend_heatmap_starter.py
-python research-conceptualization/scientific-figure/scripts/concept_diagram_starter.py
+python scientific-figure/scripts/bar_figure_starter.py
+python scientific-figure/scripts/trend_heatmap_starter.py
+python scientific-figure/scripts/concept_diagram_starter.py
 ```

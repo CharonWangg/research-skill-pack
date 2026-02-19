@@ -38,9 +38,9 @@ The "what and why" layer of research:
 ## Figure Output Add-on
 
 When you need to present conceptual findings with publication-style visuals,
-use the embedded figure skill:
+use the separate figure skill:
 
-- `research-conceptualization/scientific-figure/SKILL.md`
+- `scientific-figure/SKILL.md`
 
 ## How to Operate
 

@@ -39,9 +39,9 @@ The "how" layer of research:
 ## Figure Output Add-on
 
 When technical findings need polished charts or diagrams in a report, use the
-embedded figure skill:
+separate figure skill:
 
-- `research-technical-detail/scientific-figure/SKILL.md`
+- `scientific-figure/SKILL.md`
 
 ## How to Operate
 

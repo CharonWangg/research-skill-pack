@@ -6,16 +6,15 @@ Codex-ready research skills bundle for high-recall AI/ML research workflows.
 
 - `research-conceptualization/`: Concept-level research landscape mapping (`what` and `why`)
 - `research-technical-detail/`: Implementation-level research detail gathering (`how`)
-- `research-conceptualization/scientific-figure/`: Embedded figure skill for conceptual reports
-- `research-technical-detail/scientific-figure/`: Embedded figure skill for technical reports
+- `scientific-figure/`: Dedicated publication-figure skill (`bar`, `trend`, `heatmap`, `concept diagram`)
 - `AGENTS.md`: Cross-session note-taking and knowledge compounding guidance
 
 ## One-Command Install (Remote Codex)
 
-Run this on your remote machine to install both skills and pull `AGENTS.md`:
+Run this on your remote machine to install all three skills and pull `AGENTS.md`:
 
 ```bash
-bash -lc 'set -euo pipefail; CH="${CODEX_HOME:-$HOME/.codex}"; python3 "$CH/skills/.system/skill-installer/scripts/install-skill-from-github.py" --repo CharonWangg/research-skill-pack --path research-conceptualization research-technical-detail --ref main; mkdir -p "$CH"; curl -fsSL https://raw.githubusercontent.com/CharonWangg/research-skill-pack/main/AGENTS.md -o "$CH/AGENTS.md"; echo "Installed. Restart Codex to pick up new skills/instructions."'
+bash -lc 'set -euo pipefail; CH="${CODEX_HOME:-$HOME/.codex}"; python3 "$CH/skills/.system/skill-installer/scripts/install-skill-from-github.py" --repo CharonWangg/research-skill-pack --path research-conceptualization research-technical-detail scientific-figure --ref main; mkdir -p "$CH"; curl -fsSL https://raw.githubusercontent.com/CharonWangg/research-skill-pack/main/AGENTS.md -o "$CH/AGENTS.md"; echo "Installed. Restart Codex to pick up new skills/instructions."'
 ```
 
 References:
